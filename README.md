@@ -1,6 +1,6 @@
 # confirmarData
 AppConfirmarData  
-
+La aplicacion se encuentra comprimida en el archivo AppConfirmarData.7z
 
 ![](../../tree/master/screenshoots/1.png)
 
